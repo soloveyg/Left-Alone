@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1499487405
+CRC: 1696075163
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d0f64c401f7a6ab1daa7b8f62d9e32ff
+    Hash: 331e043205d777f34c26f48b57ee66c0
   TypeTreeHash:
     serializedVersion: 2
     Hash: f57d5c775564a8c60131366483c3c908
@@ -53,4 +53,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Scenes/SampleScene.unity
 Dependencies:
-- C:/Users/kongshij/Unity Projects/playing series/Left Alone/OVRAssetBundles/OVRMasterBundle/asset_prefab0
+- C:/Users/kongshij/Documents/GitHub/Left-Alone/Left Alone/OVRAssetBundles/OVRMasterBundle/asset_prefab0
